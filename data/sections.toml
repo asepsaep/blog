@@ -1,0 +1,9 @@
+[posts]
+	title = "Posts"
+[posts.image]
+  feature = "/images/front-image.jpg"
+
+[tags]
+  title = "Tags"
+[tags.image]
+  feature = "/images/front-image.jpg"
